@@ -1,0 +1,16 @@
+:root{
+    --white-coler: #fff;
+    --primary-color: #c9bf46;
+    --width-sub-item: 120px;
+    --height-sub-item: 36px;
+    --text-color: #4d695b;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: Arial,sans-serif;
+}
+a{
+    text-decoration: none;
+}

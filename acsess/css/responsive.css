@@ -1,0 +1,35 @@
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px){
+    .movie-right{
+        max-height: 637px;
+    }
+}
+/* tablet-mobile */
+@media (max-width: 1023px){
+    .header{
+        display: block;
+    }
+    .logo{
+        width: auto;
+        height: 45px;
+    }
+    .logo-contain{
+        text-align: center;
+    }
+    .search{
+        width: 100%;
+        margin-left: 0;
+    }
+    .header__btn{
+        padding: 4px 0;
+        text-align: end
+    }
+    .nav-list{
+        flex-wrap: wrap;
+    }
+    .footer-text,
+    .footer-social,
+    .footer-link{
+        text-align: center;
+    }
+}
